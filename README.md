@@ -1,6 +1,6 @@
 # Hi there 👋
-#### 🔭 I’m currently working on UET-University of Engineering and Technology
-#### 🔭 I’m currently working on VKIST
+#### 🔭 I’m currently working at VKIST
+#### 🔭 I’m graduated from UET-University of Engineering and Technology
 #### 🌱 I’m currently learning Python, C++
 #### 👯 I’m looking to collaborate on Klei
 #### 🤔 I’m looking for help with ...
