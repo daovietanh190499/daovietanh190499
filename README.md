@@ -1,11 +1,15 @@
-# Hi there 👋
-#### 🔭 I’m currently working at VKIST
-#### 🔭 I’m graduated from UET-University of Engineering and Technology
-#### 🌱 I’m currently learning Python, C++
-#### 👯 I’m looking to collaborate on Klei
-#### 🤔 I’m looking for help with ...
-#### 💬 Ask me about Python, Computer vision, AI, . . .
-#### 😄 Pronouns: v-i-e-t-a-n-h
-#### 📫 How to reach me: https://www.facebook.com/daovietanh99
-#### ⚡ Fun fact: Iam noob
-<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+<h1 align="center">Hi 👋, I'm Viet Anh</h1>
+<p align="center">🔭 😄 👯 🤔 🌱</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=daovietanh190499&show_icons=true" alt="daovietanh190499" />
+
+<p align="left"> Github profile views (added April '26):  </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=daovietanh190499" alt="daovietanh190499" /> </p>
+
+
+📫 How to reach me: **daovietanh190499dev@gmail.com**
+
+<p align="center">
+
+<a href="https://fb.com/daovietanh99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="daovietanh99" height="30" width="30" /></a>
+  
+</p>
